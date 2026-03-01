@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohankumar Reddy
+🌐 Exploring Full Stack Development  
+📍 India  
+
+🔗 **Portfolio:** [rohankumar-reddy.vercel.app](https://rohankumar-reddy.vercel.app/)
+
 
 <!--
 **RohankumarReddy/RohankumarReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
