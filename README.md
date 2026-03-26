@@ -29,15 +29,7 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohankumarreddy&theme=onestar&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +78,7 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohankumarreddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=5DCAA5&text_color=c9d1d9" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohankumarreddy&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD" />
 
 <br/><br/>
