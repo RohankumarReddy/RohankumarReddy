@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Rohankumar%20Reddy&fontSize=42&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20%C2%B7%20ML%20%C2%B7%20AI&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=180&section=header&text=Rohankumar%20Reddy&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%C2%B7%20ML%20%C2%B7%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 <samp>
 
@@ -91,8 +91,7 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=120&section=footer" width="100%"/>
 *⭐ If you find my work interesting, feel free to star some repos!*
 
 </div>
