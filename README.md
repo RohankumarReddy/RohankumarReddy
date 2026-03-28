@@ -88,6 +88,13 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 </div>
 
 ---
+## 📅 Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/654ea3/RohankumarReddy" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
 
 <div align="center">
 
