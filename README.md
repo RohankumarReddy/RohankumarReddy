@@ -25,7 +25,7 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 - 🌱 Currently learning **Next.js · Machine Learning · DSA**
 - 👨‍💻 Projects → [rohankumar-reddy.vercel.app](https://rohankumar-reddy.vercel.app)
 - 📝 Writing on [Substack](https://substack.com/@rohankumarreddy)
-- 📫 Reach me at **rohankumarrock200@gmail.com**
+- 📫 Reach me at **nrohankumarreddy@gmail.com**
 
 ---
 
