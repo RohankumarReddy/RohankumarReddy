@@ -83,9 +83,6 @@ Deeply interested in **Full Stack Development**, **Machine Learning**, and **Art
 
 <br/><br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankumarreddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" />
-
-</div>
 
 ---
 ## 📅 Contributions
